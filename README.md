@@ -1,6 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
 
+🌱 I’m currently learning **AI Agents architecture & optimizing offline-first mobile workflows**  
+💬 Ask me about **React, Swift, or bridging hardware & mesh networking (UWB, BLE)**  
+⚡ Fun fact **Code by day, lift heavy & fine-tune electric scooters by night 🛵🏋️‍♂️**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kimcuong.huynh.5011516) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kim-cương-huỳnh-26240b1a0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kimcuong1422) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huynhkimcuong53@gmail.com) 
